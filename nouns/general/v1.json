@@ -1,10 +1,22 @@
 {
     "values": [
-        {
-            "id": "98163458-59af-48ec-8abb-22256ad7b400",
-            "m": "il gatto",
-            "f": "la gatta",
-            "e": "the cat"
-        }   
-    ]
+    {
+        "s": "il cane",
+        "sE": "the dog",
+        "p": "i cani",
+        "pE": "the dogs"
+    },
+    {
+        "s": "la persona",
+        "sE": "the person",
+        "p": "le persone",
+        "pE": "the people"
+    },
+    {
+        "s": "il libro",
+        "sE": "the book",
+        "p": "i libri",
+        "pE": "the books"
+    }
+]
 }
